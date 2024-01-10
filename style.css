@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: aquamarine;
+    font-family: sans-serif;
+}
+.main-area{
+color: blue;
+text-align: center;
+}
