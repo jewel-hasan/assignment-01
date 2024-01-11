@@ -1,7 +1,7 @@
 
 
 .banner-area{
-   background-image: url('./images/Banner\ Image.png');
+   background-image: url('./Banner\ Image.png');
    width: 1320px;
    height: 600px;
    color: #fff;
@@ -28,7 +28,7 @@
     color: red;
 }
 .midnight-area{
-    background-image: url("./images/Vectorrr.png");
+    background-image: url("./Vectorrr.png");
     width: 1320px;
    height: 600px;
    color: #fff;
@@ -86,9 +86,7 @@
    
 }
 
-.comming-middle-img{
-    
-}
+
 .holiday-area{
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
